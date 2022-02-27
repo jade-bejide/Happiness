@@ -83,7 +83,8 @@ class Community(object):
             template["profession"] = self._inhabitants[i].getProfession()
             template["Friends"] = friends
             template["Number of Friends"] = len(self._inhabitants[i].getAcquaintances())-1
-            template["happiness"] = round(self._inhabitants[i].getHappiness(),2)
+            #get relative happiness (default 50)
+            template["happiness"] = round(self._inhabitants[i].getHappiness()  - 50,2)
 
             happyList.append(template)
 
@@ -103,8 +104,6 @@ class Person(object):
     def getName(self):
         return self._name
 
-##    def makeAcquaintancesWith(self, friend):
-##        self._acquaintances.append(friend)
         
     def makeAcquaintances(self, friend):
         #connects two people in a community as friends
@@ -164,7 +163,7 @@ class Person(object):
                     n += 1
 
         else:
-            self._happiness = self._happiness * 0.5
+            self._happiness = (self._happiness * 0.5) % 100
 
     def getHappiness(self):
         return self._happiness
@@ -220,9 +219,9 @@ with open("happiness.json", "w") as file:
         json.dump(line, file)
         file.write("\n")
         file.write("\n")
-##for row in happyList:
-##    print(row)
-##    print("\n")
+for row in happyList:
+    print(row)
+    print("\n")
 
         
 
