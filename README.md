@@ -1,2 +1,2 @@
 # Happiness
-Answer to Question 2B: SPARC 2021 Admissions
+Python Script that models happiness based on a person's career professions and friends around them.
