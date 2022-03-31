@@ -162,11 +162,13 @@ class Person(object):
                 if i % 5 == 0 and n < (distribution +1):
                     n += 1
 
+
         else:
-            self._happiness = (self._happiness * 0.5) % 100
+            self._happiness = (self._happiness * 0.5)
+
 
     def getHappiness(self):
-        return self._happiness
+        return self._happiness % 100
 
 #Instantiate members of a community
 andy = Person("andy", random.randint(0,4))

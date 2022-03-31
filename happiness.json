@@ -1,46 +1,46 @@
-{"name": "harry", "profession": 1, "Friends": ["kyan", "mandy", "isla", "xander"], "Number of Friends": 4, "happiness": 51.25}
+{"name": "yara", "profession": 0, "Friends": ["emily", "quiana", "xander", "georgia", "harry", "jade", "zach"], "Number of Friends": 7, "happiness": 8.3}
 
-{"name": "warren", "profession": 3, "Friends": ["emily", "tony", "jade", "darren", "yara"], "Number of Friends": 5, "happiness": 27.22}
+{"name": "oliver", "profession": 4, "Friends": ["celia", "isla", "darren", "andy", "warren", "kyan"], "Number of Friends": 6, "happiness": -33.69}
 
-{"name": "vivian", "profession": 1, "Friends": ["quiana", "celia", "andy", "kyan", "mandy", "xander"], "Number of Friends": 6, "happiness": 264.73}
+{"name": "quiana", "profession": 0, "Friends": ["emily", "yara", "tony", "georgia", "xander", "vivian"], "Number of Friends": 6, "happiness": 9.74}
 
-{"name": "jade", "profession": 2, "Friends": ["mandy", "warren", "sissy", "xander", "harry", "zach", "beth"], "Number of Friends": 7, "happiness": 23.75}
+{"name": "xander", "profession": 2, "Friends": ["quiana", "andy", "yara", "harry", "tony"], "Number of Friends": 5, "happiness": 36.32}
 
-{"name": "andy", "profession": 1, "Friends": ["faith", "mandy", "xander", "quiana", "yara", "vivian"], "Number of Friends": 6, "happiness": 226.85}
+{"name": "nnandi", "profession": 3, "Friends": ["layla", "vivian", "tony", "faith", "darren"], "Number of Friends": 5, "happiness": -43.3}
 
-{"name": "tony", "profession": 3, "Friends": ["mandy", "quiana", "georgia", "sissy", "emily"], "Number of Friends": 5, "happiness": 92.78}
+{"name": "sissy", "profession": 3, "Friends": ["vivian", "oliver", "andy", "celia", "emily"], "Number of Friends": 5, "happiness": 23.81}
 
-{"name": "celia", "profession": 0, "Friends": ["mandy", "faith", "isla", "layla", "vivian"], "Number of Friends": 5, "happiness": 56.85}
+{"name": "beth", "profession": 2, "Friends": ["jade", "zach", "celia", "tony"], "Number of Friends": 4, "happiness": 40.57}
 
-{"name": "yara", "profession": 2, "Friends": ["sissy", "mandy", "faith", "kyan", "warren", "layla", "xander", "isla"], "Number of Friends": 8, "happiness": 116.19}
+{"name": "darren", "profession": 4, "Friends": ["oliver", "warren", "nnandi", "isla"], "Number of Friends": 4, "happiness": 39.29}
 
-{"name": "isla", "profession": 1, "Friends": ["xander", "celia", "mandy", "kyan", "layla", "harry"], "Number of Friends": 6, "happiness": 128.95}
+{"name": "layla", "profession": 4, "Friends": ["faith", "nnandi"], "Number of Friends": 2, "happiness": 23.22}
 
-{"name": "xander", "profession": 0, "Friends": ["jade", "yara", "ursala", "quiana", "isla", "andy", "vivian", "layla", "harry", "beth"], "Number of Friends": 10, "happiness": -30}
+{"name": "mandy", "profession": 1, "Friends": ["yara", "quiana", "tony", "zach"], "Number of Friends": 4, "happiness": 9.94}
 
-{"name": "nnandi", "profession": 4, "Friends": ["darren", "zach", "emily"], "Number of Friends": 3, "happiness": 80.27}
+{"name": "georgia", "profession": 0, "Friends": ["harry", "quiana", "tony", "yara", "xander", "emily", "vivian", "zach"], "Number of Friends": 8, "happiness": 46.27}
 
-{"name": "rowan", "profession": 4, "Friends": ["sissy", "darren", "nnandi"], "Number of Friends": 3, "happiness": 75.35}
+{"name": "jade", "profession": 1, "Friends": ["georgia", "beth", "tony", "yara", "zach"], "Number of Friends": 5, "happiness": -30}
 
-{"name": "beth", "profession": 2, "Friends": ["layla", "kyan", "quiana", "ursala", "xander"], "Number of Friends": 5, "happiness": 49.8}
+{"name": "faith", "profession": 4, "Friends": ["rowan", "isla", "andy", "darren", "nnandi"], "Number of Friends": 5, "happiness": 16.31}
 
-{"name": "quiana", "profession": 2, "Friends": ["jade", "faith", "beth", "vivian", "tony", "xander", "ursala", "mandy"], "Number of Friends": 8, "happiness": 144.16}
+{"name": "harry", "profession": 1, "Friends": ["georgia", "yara"], "Number of Friends": 2, "happiness": -28.64}
 
-{"name": "sissy", "profession": 3, "Friends": ["zach", "tony", "mandy", "rowan", "jade", "georgia"], "Number of Friends": 6, "happiness": 52.87}
+{"name": "celia", "profession": 3, "Friends": ["kyan", "emily", "oliver", "vivian", "beth", "andy"], "Number of Friends": 6, "happiness": 20.35}
 
-{"name": "darren", "profession": 3, "Friends": ["mandy", "faith", "warren", "nnandi"], "Number of Friends": 4, "happiness": 161.66}
+{"name": "rowan", "profession": 4, "Friends": ["warren", "faith", "nnandi", "andy"], "Number of Friends": 4, "happiness": -36.64}
 
-{"name": "ursala", "profession": 0, "Friends": ["celia", "beth", "xander", "layla"], "Number of Friends": 4, "happiness": 74.42}
+{"name": "vivian", "profession": 2, "Friends": ["zach", "nnandi", "sissy", "georgia", "celia", "quiana"], "Number of Friends": 6, "happiness": -38.34}
 
-{"name": "layla", "profession": 0, "Friends": ["isla", "celia", "beth", "andy", "xander", "yara", "faith"], "Number of Friends": 7, "happiness": 14.8}
+{"name": "kyan", "profession": 4, "Friends": ["layla", "celia", "oliver", "andy", "warren"], "Number of Friends": 5, "happiness": -17.75}
 
-{"name": "georgia", "profession": 4, "Friends": ["zach", "sissy", "tony", "rowan"], "Number of Friends": 4, "happiness": 17.62}
+{"name": "isla", "profession": 4, "Friends": ["darren", "oliver", "rowan", "warren", "faith"], "Number of Friends": 5, "happiness": 29.39}
 
-{"name": "mandy", "profession": 2, "Friends": ["darren", "harry", "tony", "sissy", "jade", "vivian", "celia", "yara", "isla", "quiana"], "Number of Friends": 10, "happiness": 51.71}
+{"name": "emily", "profession": 2, "Friends": ["celia", "quiana", "georgia", "tony", "warren", "jade", "andy", "yara"], "Number of Friends": 8, "happiness": 11.72}
 
-{"name": "faith", "profession": 2, "Friends": ["quiana", "layla", "vivian", "andy", "celia", "darren", "zach"], "Number of Friends": 7, "happiness": 180.39}
+{"name": "andy", "profession": 3, "Friends": ["emily", "xander", "faith", "rowan", "celia", "sissy", "kyan", "oliver", "warren"], "Number of Friends": 9, "happiness": 14.98}
 
-{"name": "kyan", "profession": 0, "Friends": ["beth", "xander", "harry", "yara", "vivian"], "Number of Friends": 5, "happiness": 4.77}
+{"name": "warren", "profession": 3, "Friends": ["emily", "andy", "isla", "kyan", "darren", "oliver"], "Number of Friends": 6, "happiness": 21.13}
 
-{"name": "zach", "profession": 3, "Friends": ["sissy", "faith", "jade", "nnandi", "warren"], "Number of Friends": 5, "happiness": 5.0}
+{"name": "zach", "profession": 1, "Friends": ["tony", "georgia", "jade", "beth", "vivian", "mandy"], "Number of Friends": 6, "happiness": 36.94}
 
